@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 5000
 
 # 6. Default command
-CMD ["python", "streamlit_app.py"]
+CMD ["python", "app.py"]
